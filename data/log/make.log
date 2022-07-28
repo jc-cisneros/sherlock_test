@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
-Makelog started: 2022-07-28 12:00:30
+Makelog started: 2022-07-28 13:36:36
 Working directory: /oak/stanford/groups/gentzkow/jccp/sherlock_test/data
 --------------------------------------------------------------------------------
 Input links successfully created!
@@ -15,6 +15,6 @@ See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stab
 
 Output logs successfully written!
 --------------------------------------------------------------------------------
-Makelog ended: 2022-07-28 12:00:54
+Makelog ended: 2022-07-28 13:36:58
 Working directory: /oak/stanford/groups/gentzkow/jccp/sherlock_test/data
 --------------------------------------------------------------------------------
