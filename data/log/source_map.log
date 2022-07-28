@@ -1,4 +1,4 @@
 destination | source
-input/lib | /Users/zahedian/Documents/template/lib
-input/tv.csv | /Users/zahedian/Documents/template/raw/tv.csv
-input/chips.csv | /Users/zahedian/Documents/template/raw/chips.csv
+input/lib | /oak/stanford/groups/gentzkow/jccp/sherlock_test/lib
+input/tv.csv | /oak/stanford/groups/gentzkow/jccp/sherlock_test/raw/tv.csv
+input/chips.csv | /oak/stanford/groups/gentzkow/jccp/sherlock_test/raw/chips.csv
