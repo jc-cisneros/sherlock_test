@@ -8,5 +8,7 @@
 #SBATCH --mail-user=jccp@stanford.edu
 #SBATCH --ntasks=1
 
-ml python/3.6.1
+
+source ~/miniconda3/condabin/conda.sh
+conda activate template
 srun python run_all.py
